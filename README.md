@@ -36,5 +36,3 @@
 <Br>
 
 ------
-  
-Credit: [Muneeb Ur Rehman](https://github.com/1muneeburrehman)
