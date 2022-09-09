@@ -5,7 +5,7 @@
 
 - 🏫: I'm a BSCS Graduate Student.
 - 🔭: I’m currently working on Laravel projects.
-- 🌱: I’m currently learning PHP and Laravel.💻
+- 🌱: I’m currently learning PHP, Laravel and Flutter.💻
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 
 <hr>
