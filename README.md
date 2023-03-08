@@ -3,11 +3,12 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm a BSCS Graduate Student.
-- 🔭: I’m currently working on Laravel projects.
-- 🌱: I’m currently learning PHP, Laravel and Flutter.💻
-- 🤔: I’m looking for help with anything I am currently learning! 😅
+- Proficient in Laravel and related technologies such as Blade, Eloquent, and Artisan.
+- Strong knowledge of PHP, MySQL, HTML, CSS, and JavaScript.
+- Experience working with Git and Github for version control and collaboration
+- Familiarity with front-end frameworks such as Vue.js and React
 
+  
 <hr>
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
